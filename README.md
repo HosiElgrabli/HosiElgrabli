@@ -2,21 +2,9 @@
 
 # Hosi
 
-&nbsp;
+Software developer. Coffee enthusiast. ☕
 
-`curious` · `quiet` · `always listening`
-
-&nbsp;
-
----
-
-&nbsp;
-
-Not much to see here.
-
-&nbsp;
-
----
+Enjoy building things and learning new stuff.
 
 </div>
 
